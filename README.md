@@ -1,2 +1,2 @@
 # TeamProjectPublic
-*** this project for studying only
+*** this project for studying only ***
